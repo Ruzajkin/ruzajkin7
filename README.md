@@ -12,4 +12,4 @@
 Какие могут быть трудности?"
 
 
-![kartinka2]()
+![kartinka2](https://github.com/Ruzajkin/ruzajkin7/blob/master/12.JPG?raw=true)
